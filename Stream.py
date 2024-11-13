@@ -15,8 +15,8 @@ client = Warpcast(
 
 # 设置 API 基础 URL 和 API 密钥
 API_BASE_URL = 'https://api.airstack.xyz/farcaster'
-API_KEY = '188974da1e94a4c6ea94e684bfa5c8c3f'  # 替换为你的 API 密钥
-gpt_api_key = "sk-XF7SHXgvsxwQ8K96CeB0213fC419400185B77d2b4bBe9711"
+API_KEY = ''  # 替换为你的 API 密钥
+gpt_api_key = ""
 airstack_client = AirstackClient(api_key=API_KEY)
 
 
